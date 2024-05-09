@@ -111,7 +111,7 @@ nav a.active {
   background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/225748/MD_background.png) no-repeat center center fixed;
   display: flex;
   justify-content: space-between;
-  padding:50px 150px 50px 150px;
+  padding:80px 150px 50px 150px;
   
 }
 
