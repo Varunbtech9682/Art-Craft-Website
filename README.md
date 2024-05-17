@@ -1,1 +1,1 @@
-![Art & craft Display](assets/Screenshot 2024-05-10 143810.png)
+![Art & craft Display](assets/preview.mp4)
