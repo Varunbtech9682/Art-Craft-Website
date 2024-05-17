@@ -1,1 +1,1 @@
-![Art & craft Display](assets/preview.mp4)
+![Art & craft Display](assets/preview.png)
